@@ -3,9 +3,7 @@
   "description": "cli for gh-pinned-repos",
   "version": "0.1.0",
   "author": {
-    "name": "Zac Anger",
-    "email": "zac@zacanger.com",
-    "url": "http://zacanger.com"
+    "name": "Autumn Z"
   },
   "license": "WTFPL",
   "main": "index.js",
@@ -14,12 +12,12 @@
     "start": "node index",
     "test": ""
   },
-  "homepage": "https://github.com/zacanger/gh-pinned-repos-cli#readme",
+  "homepage": "https://github.com/zautumnz/gh-pinned-repos-cli#readme",
   "repository": {
     "type": "git",
-    "url": "https://github.com/zacanger/gh-pinned-repos-cli.git"
+    "url": "https://github.com/zautumnz/gh-pinned-repos-cli.git"
   },
-  "bugs": "https://github.com/zacanger/gh-pinned-repos-cli/issues",
+  "bugs": "https://github.com/zautumnz/gh-pinned-repos-cli/issues",
   "keywords": [
     "cli",
     "github",
